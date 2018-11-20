@@ -1,0 +1,12 @@
+{
+  "name": "aws-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
